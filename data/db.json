@@ -1,0 +1,19 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Web developer",
+            "details": "100% remote"
+        },
+        {
+            "id": 2,
+            "title": "Web designer",
+            "details": "90% remote"
+        },
+        {
+            "id": 3,
+            "title": "Backend developer",
+            "details": "50% remote"
+        }
+    ]
+}
